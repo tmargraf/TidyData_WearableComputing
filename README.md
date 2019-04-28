@@ -2,7 +2,7 @@
 ## README for Month 3 project "Getting and Cleaning Data"
 by Tim Margraf, student, Johns Hopkins Data Sciences Program
 
-###About
+### About
 The following "about" information was provided with the source data:
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
@@ -16,12 +16,12 @@ activityrecognition@smartlab.ws
 www.smartlab.ws
 ==================================================================
 
-###Important URLs
+### Important URLs
 * Source Data from SmartLab:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * More info about the data collected:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-###Steps to run the analysis (Tim's Code)
+### Steps to run the analysis (Tim's Code)
 1. Download the source data in the URL listed above.
 2. Download the source code file from this project:  run_analysis.R
 3. Move the following files to the same directory as the source code
@@ -37,7 +37,7 @@ www.smartlab.ws
 5. Run the following method: generateFinalDataSet()
 6. In the working folder, find the resultant data set: FinalDataSet.txt
 
-###Additional Info from the original source data readme file:
+### Additional Info from the original source data readme file:
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
