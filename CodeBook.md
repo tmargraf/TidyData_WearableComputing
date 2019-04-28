@@ -10,7 +10,6 @@ Moved acknowledgements to the bottom for Smartlab information.
 
 ### Files
 The dataset includes the following files:
-=========================================
 
 - ' ': The desired tidy dataset.  This is the output of the project after the code runs.
 
